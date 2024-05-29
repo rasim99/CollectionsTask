@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\StudentTask\bin\Debug\net8.0\StudentTask.exe
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\StudentTask\bin\Debug\net8.0\StudentTask.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\StudentTask\bin\Debug\net8.0\StudentTask.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\StudentTask\bin\Debug\net8.0\StudentTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\StudentTask\bin\Debug\net8.0\StudentTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\StudentTask\obj\Debug\net8.0\StudentTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\StudentTask\obj\Debug\net8.0\StudentTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\StudentTask\obj\Debug\net8.0\StudentTask.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\StudentTask\obj\Debug\net8.0\StudentTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\StudentTask\obj\Debug\net8.0\StudentTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\StudentTask\obj\Debug\net8.0\refint\StudentTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\StudentTask\obj\Debug\net8.0\StudentTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\StudentTask\obj\Debug\net8.0\StudentTask.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\StudentTask\obj\Debug\net8.0\ref\StudentTask.dll

@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\SocialMediaTask\bin\Debug\net8.0\SocialMediaTask.exe
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\SocialMediaTask\bin\Debug\net8.0\SocialMediaTask.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\SocialMediaTask\bin\Debug\net8.0\SocialMediaTask.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\SocialMediaTask\bin\Debug\net8.0\SocialMediaTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\SocialMediaTask\bin\Debug\net8.0\SocialMediaTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\SocialMediaTask\obj\Debug\net8.0\SocialMediaTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\SocialMediaTask\obj\Debug\net8.0\SocialMediaTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\SocialMediaTask\obj\Debug\net8.0\SocialMediaTask.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\SocialMediaTask\obj\Debug\net8.0\SocialMediaTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\SocialMediaTask\obj\Debug\net8.0\SocialMediaTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\SocialMediaTask\obj\Debug\net8.0\refint\SocialMediaTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\SocialMediaTask\obj\Debug\net8.0\SocialMediaTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\SocialMediaTask\obj\Debug\net8.0\SocialMediaTask.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\SocialMediaTask\obj\Debug\net8.0\ref\SocialMediaTask.dll

@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\InventoryTask\bin\Debug\net8.0\InventoryTask.exe
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\InventoryTask\bin\Debug\net8.0\InventoryTask.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\InventoryTask\bin\Debug\net8.0\InventoryTask.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\InventoryTask\bin\Debug\net8.0\InventoryTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\InventoryTask\bin\Debug\net8.0\InventoryTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\InventoryTask\obj\Debug\net8.0\InventoryTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\InventoryTask\obj\Debug\net8.0\InventoryTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\InventoryTask\obj\Debug\net8.0\InventoryTask.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\InventoryTask\obj\Debug\net8.0\InventoryTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\InventoryTask\obj\Debug\net8.0\InventoryTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\InventoryTask\obj\Debug\net8.0\refint\InventoryTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\InventoryTask\obj\Debug\net8.0\InventoryTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\InventoryTask\obj\Debug\net8.0\InventoryTask.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\InventoryTask\obj\Debug\net8.0\ref\InventoryTask.dll

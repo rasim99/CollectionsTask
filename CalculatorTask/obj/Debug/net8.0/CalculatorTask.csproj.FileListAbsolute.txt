@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\CalculatorTask\bin\Debug\net8.0\CalculatorTask.exe
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\CalculatorTask\bin\Debug\net8.0\CalculatorTask.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\CalculatorTask\bin\Debug\net8.0\CalculatorTask.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\CalculatorTask\bin\Debug\net8.0\CalculatorTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\CalculatorTask\bin\Debug\net8.0\CalculatorTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\CalculatorTask\obj\Debug\net8.0\CalculatorTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\CalculatorTask\obj\Debug\net8.0\CalculatorTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\CalculatorTask\obj\Debug\net8.0\CalculatorTask.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\CalculatorTask\obj\Debug\net8.0\CalculatorTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\CalculatorTask\obj\Debug\net8.0\CalculatorTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\CalculatorTask\obj\Debug\net8.0\refint\CalculatorTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\CalculatorTask\obj\Debug\net8.0\CalculatorTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\CalculatorTask\obj\Debug\net8.0\CalculatorTask.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\Collection_Tasks\CalculatorTask\obj\Debug\net8.0\ref\CalculatorTask.dll
